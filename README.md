@@ -1,5 +1,3 @@
-# MarkingSpace_
-
 # 基金池“五篇大文章”标记体系
 
 中银理财-基海淘金队课题前端。首版为纯前端静态单页应用，使用 React、TypeScript、Vite、Tailwind CSS、React Router HashRouter、Apache ECharts 和 Zod。
